@@ -1,3 +1,4 @@
+# run '!pip install -r requirements.txt'
 # Data Manipulation & Math
 pandas
 numpy
@@ -21,4 +22,3 @@ IPython
 streamlit
 requests
 
-pip install -r requirements.txt
