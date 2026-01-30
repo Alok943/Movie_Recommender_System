@@ -1,0 +1,24 @@
+# Data Manipulation & Math
+pandas
+numpy
+
+# Machine Learning & Similarity
+scikit-learn
+joblib
+
+# Fuzzy Matching for Titles
+thefuzz
+python-Levenshtein
+
+# Model Artifacts & Hosting
+huggingface_hub
+
+# Notebook Environment
+ipykernel
+IPython
+
+# Planned Frontend & API
+streamlit
+requests
+
+pip install -r requirements.txt
